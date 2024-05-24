@@ -16,7 +16,7 @@
 <div class="mb-24 mt-6 flex flex-col items-center justify-center px-6">
   <div class="flex w-full gap-8 sm:gap-36 print:gap-10 flex-col sm:flex-row">
     <div class="sm:w-1/5">
-      <Sidebar resume={data.resume} />
+      <Sidebar />
     </div>
     <div class="sm:w-4/5">
       <slot />

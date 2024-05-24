@@ -1,15 +1,15 @@
 ---
 - title: name
-  thumb: /projects/POlAEgi9zXAog2oU7bya3TufMq1D081J.jpg
+  thumb: https://images.unsplash.com/photo-1636564499112-6113e73c504a?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
   date: "2020-12-01"
   url: https://github.com
   content: lorem ipsum dolor sit amet
   photos:
-    - /projects/h1h3xN9FXL97OVPafQGAXbBtSmwSu2oI.png
+    - https://images.unsplash.com/photo-1636564499112-6113e73c504a?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 - title: name
-  thumb: /projects/DUywCUjIpFvettkgI6SPHaN0HVWU7fUf.jpg
+  thumb: https://images.unsplash.com/photo-1636564499112-6113e73c504a?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
   date: "2022-03-01"
   url: https://github.com
   content: lorem ipsum dolor sit amet
   photos:
-    - /projects/DUywCUjIpFvettkgI6SPHaN0HVWU7fUf.png
+    - https://images.unsplash.com/photo-1636564499112-6113e73c504a?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D

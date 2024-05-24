@@ -6,7 +6,7 @@
   export let data
 </script>
 
-<Head title={`${data.resume.title} – Projects`} description={`${data.resume.description} – Projects`} url={$page.url.toString()} />
+<Head title={`Bengü Baştuğ – Projects`} description={`Bengü Baştuğ – Projects`} url={$page.url.toString()} />
 
 {#if data.projects && data.projects.length}
   <div class="flex flex-col gap-16 lg:gap-6">

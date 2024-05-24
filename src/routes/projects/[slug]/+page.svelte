@@ -10,7 +10,7 @@
   export let data
 </script>
 
-<Head title={`${data.title} – ${data.resume.title}`} description={data.resume.description} url={$page.url.toString()} />
+<Head title={`${data.title} – Bengü Baştuğ`} description="Bengü Baştuğ" url={$page.url.toString()} />
 
 <div class="flex flex-col gap-12 lg:gap-20">
   <div>
@@ -18,7 +18,7 @@
   </div>
 
   <div class="flex flex-col items-center gap-10 lg:flex-row">
-    <img src={data.thumb} alt={`${data.title} by ${data.resume.title}`} width="150" height="150" class="rounded-xl" style={`view-transition-name: img-${convertToSlug(data.title)}`} />
+    <img src={data.thumb} alt={`${data.title} by Bengü Baştuğ`} width="150" height="150" class="rounded-xl" style={`view-transition-name: img-${convertToSlug(data.title)}`} />
     <div class="flex flex-col gap-4 text-center lg:text-left">
       <h1 class="text-2xl font-bold md:text-4xl lg:text-6xl" style={`view-transition-name: title-${convertToSlug(data.title)}`}>
         {data.title}
@@ -47,7 +47,7 @@
     <div class="grid grid-cols-1 gap-20">
       {#each data.photos as photo}
         <div class="flex max-h-screen items-center justify-center rounded sm:bg-slate-900 sm:p-20">
-          <img src={photo} alt={`${data.title} by ${data.resume.title} - ${photo}`} class="max-h-[90vh] w-auto" />
+          <img src={photo} alt={`${data.title} by Bengü Baştuğ - ${photo}`} class="max-h-[90vh] w-auto" />
         </div>
       {/each}
     </div>
