@@ -55,6 +55,15 @@
   photos:
     - /projects/Holobite.png
 
+- title: Wallpapers
+  thumb: /projects/Fluid Color.png
+  content: lorem ipsum dolor sit amet
+  photos:
+    - /projects/Fluid Color.png
+    - /projects/Wave.png
+    - /projects/Blend -V2.png
+    - /projects/Abstract Background.png
+
 - title: Drafts
   thumb: /projects/Goat.png
   content: lorem ipsum dolor sit amet
@@ -69,6 +78,3 @@
     - /projects/Text in shape.png
     - /projects/Spoon Collection.png
     - /projects/Blend -V1.png
-    - /projects/Blend -V2.png
-    - /projects/Abstract Background.png
-    - /projects/Wave.png
