@@ -1,1 +1,0 @@
-import"./entry.TC2o-ZgJ.js";const a=e=>e.toLowerCase().replace(/ /g,"-").replace(/[^\w-]+/g,""),o=e=>e.replace(/(^\w+:|^)\/\//,""),n=e=>new Date(e).toLocaleDateString("en-US",{year:"numeric",month:"long"});export{a as c,n as f,o as p};
