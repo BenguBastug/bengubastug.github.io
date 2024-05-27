@@ -46,8 +46,8 @@
   {#if data.photos && data.photos.length}
     <div class="grid grid-cols-1 gap-20">
       {#each data.photos as photo}
-        <div class="flex max-h-screen items-center justify-center rounded sm:bg-slate-900 sm:p-20">
-          <img src={photo} alt={`${data.title} by Bengü Baştuğ - ${photo}`} class="max-h-[90vh] w-auto" />
+        <div class="flex max-h-screen items-center justify-center rounded">
+          <img src={photo} alt={`${data.title} by Bengü Baştuğ - ${photo}`} class="w-full rounded-xl" />
         </div>
       {/each}
     </div>
