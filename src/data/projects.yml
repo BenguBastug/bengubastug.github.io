@@ -55,16 +55,12 @@
   photos:
     - /projects/Holobite.png
 
-- title: Goat
+- title: Drafts
   thumb: /projects/Goat.png
   content: lorem ipsum dolor sit amet
+  columns: 2
   photos:
     - /projects/Goat.png
-
-- title: Drafts
-  thumb: /projects/Triangle.png
-  content: lorem ipsum dolor sit amet
-  photos:
     - /projects/Triangle.png
     - /projects/Apple Illustration.png
     - /projects/Button.png
@@ -72,3 +68,7 @@
     - /projects/Owl.png
     - /projects/Text in shape.png
     - /projects/Spoon Collection.png
+    - /projects/Blend -V1.png
+    - /projects/Blend -V2.png
+    - /projects/Abstract Background.png
+    - /projects/Wave.png
