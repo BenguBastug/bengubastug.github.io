@@ -39,7 +39,7 @@
     </div>
   </div>
 
-  <div class="text-xl leading-snug md:text-2xl lg:text-3xl lg:font-extralight lg:leading-tight [&_a]:border-b [&_a]:border-b-black">
+  <div class="text-xl leading-snug lg:font-extralight lg:leading-tight [&_a]:border-b [&_a]:border-b-black">
     <SvelteMarkdown isInline source={data.content} renderers={{ link: ExternalLink }} />
   </div>
 
