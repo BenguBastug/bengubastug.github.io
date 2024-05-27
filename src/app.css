@@ -6,5 +6,6 @@
   0%,
   40% {
     opacity: 0;
+    transform: scale(0.99);
   }
 }
