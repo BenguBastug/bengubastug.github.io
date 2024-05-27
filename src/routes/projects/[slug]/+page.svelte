@@ -44,7 +44,7 @@
   </div>
 
   {#if data.photos && data.photos.length}
-    <div class="grid grid-cols-1 gap-20">
+    <div class="flex flex-col gap-20">
       {#each data.photos as photo}
         <div class="flex max-h-screen items-center justify-center rounded">
           <img src={photo} alt={`${data.title} by Bengü Baştuğ - ${photo}`} class="w-full rounded-xl" />
