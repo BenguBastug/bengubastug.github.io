@@ -39,15 +39,15 @@
     </div>
   </div>
 
-  <div class="text-xl leading-snug md:text-3xl lg:text-6xl lg:font-extralight lg:leading-tight [&_a]:border-b [&_a]:border-b-black">
+  <div class="text-xl leading-snug md:text-2xl lg:text-3xl lg:font-extralight lg:leading-tight [&_a]:border-b [&_a]:border-b-black">
     <SvelteMarkdown isInline source={data.content} renderers={{ link: ExternalLink }} />
   </div>
 
   {#if data.photos && data.photos.length}
     <div class="flex flex-col gap-20">
       {#each data.photos as photo}
-        <div class="flex max-h-screen items-center justify-center rounded">
-          <img src={photo} alt={`${data.title} by Bengü Baştuğ - ${photo}`} class="w-full rounded-xl" />
+        <div class="flex items-center justify-center rounded">
+          <img src={photo} alt={`${data.title} by Bengü Baştuğ - ${photo}`} class="max-h-screen rounded-xl" />
         </div>
       {/each}
     </div>
