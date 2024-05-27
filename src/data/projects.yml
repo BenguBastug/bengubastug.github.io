@@ -37,3 +37,27 @@
     - /projects/flipped (6).png
     - /projects/flipped (5).png
     
+- title: Sabroso
+  thumb: /projects/Sabroso.png
+  content: lorem ipsum dolor sit amet
+  #photos:
+  #  - /projects/flipped (2).png
+
+- title: Logo Design
+  thumb: /projects/Logo Design.png
+  content: lorem ipsum dolor sit amet
+  #photos:
+  #  - /projects/flipped (2).png
+
+- title: Holobite
+  thumb: /projects/Holobite.png
+  content: lorem ipsum dolor sit amet
+  #photos:
+  #  - /projects/flipped (2).png
+
+- title: Goat
+  thumb: /projects/Goat.png
+  content: lorem ipsum dolor sit amet
+  #photos:
+  #  - /projects/flipped (2).png
+
