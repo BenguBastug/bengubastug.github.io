@@ -39,7 +39,7 @@
     </div>
   </div>
 
-  <div class="text-xl leading-snug [&_a]:border-b [&_a]:border-b-black">
+  <div class="text-xl leading-normal [&_a]:border-b [&_a]:border-b-black">
     <SvelteMarkdown source={data.content} renderers={{ link: ExternalLink }} />
   </div>
 

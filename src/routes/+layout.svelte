@@ -11,7 +11,7 @@
   <link rel="icon" type="image/x-icon" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text x='0' y='14'>👨‍💻</text></svg>" />
 </svelte:head>
 
-<div class="mb-24 mt-6 flex flex-col items-center justify-center px-6">
+<div class="pb-24 pt-6 flex flex-col items-center justify-center px-6">
   <div class="flex w-full gap-8 sm:gap-36 print:gap-10 flex-col sm:flex-row">
     <div class="sm:w-1/5">
       <Sidebar />
