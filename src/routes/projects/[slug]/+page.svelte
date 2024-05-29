@@ -40,7 +40,7 @@
   </div>
 
   <div class="text-xl leading-snug [&_a]:border-b [&_a]:border-b-black">
-    <SvelteMarkdown isInline source={data.content} renderers={{ link: ExternalLink }} />
+    <SvelteMarkdown source={data.content} renderers={{ link: ExternalLink }} />
   </div>
 
   {#if data.photos && data.photos.length}
